@@ -1,6 +1,6 @@
 <!-- 🌈 Gradient Header -->
 
-<h1 align="center">Hi 👋, I'm SHivamt</h1>
+<h1 align="center">Hi 👋, I'm Shivam Kumar Mishra</h1>
 <h3 align="center">🚀 Data Science Engineer | AI/ML Enthusiast | Open Source Contributor</h3>
 
 <!-- 🎯 Typing Animation -->
