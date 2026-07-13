@@ -1,6 +1,6 @@
 <!-- 🌈 Gradient Header -->
 
-<h1 align="center">Hi 👋, I'm Amarjeet</h1>
+<h1 align="center">Hi 👋, I'm SHivamt</h1>
 <h3 align="center">🚀 Data Science Engineer | AI/ML Enthusiast | Open Source Contributor</h3>
 
 <!-- 🎯 Typing Animation -->
@@ -62,10 +62,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amar-jeet-977801211/">
+  <a href="https://www.linkedin.com/in/shivam-mishra-2a5494333">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:amarjeet.chaudhary.cs@gmail.com">
+  <a href="mailto:sm0567207@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
